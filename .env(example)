@@ -1,0 +1,4 @@
+
+OPENAI_API_KEY=sk-XXXXXX...XXXXXXX
+HTTP_PROXY=http://localhost:8081
+HTTPS_PROXY=http://localhost:8081
